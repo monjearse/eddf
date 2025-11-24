@@ -5,6 +5,12 @@ Este projeto implementa uma pipeline completa para **validação, análise e int
 
 ---
 
+## 👨‍🎓 **Autor**
+**Arsénio António Monjane**  
+📧 Email: monjearse@hotmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/arsenioamonjane/  
+🧑‍💻 Grupo: **Código B**
+
 ## 🚀 Funcionalidades Principais
 
 ### ✔️ 1. Validação Técnica (Agente Validator)
